@@ -1,0 +1,53 @@
+{
+  
+  
+  "dependencies": {
+  
+  
+    
+  
+  "@homebridge/node-pty-prebuilt-multiarch": "^0.13.1",
+  
+  
+    
+  
+  "@monaco-editor/react": "^4.7.0",
+  
+  
+    
+  
+  "cors": "^2.8.5",
+  
+  
+    
+  
+  "express": "^5.1.0",
+  
+  
+    
+  
+  "monaco-editor": "^0.52.2",
+  
+  
+    
+  
+  "socket.io": "^4.8.1",
+  
+  
+    
+  
+  "uuid": "^11.1.0",
+  
+  
+    
+  
+  "y-websocket": "^1.4.5",
+  
+  
+    
+  
+  "yjs": "^13.6.27"
+  
+  
+  }
+}
